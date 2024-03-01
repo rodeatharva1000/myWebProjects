@@ -3,6 +3,7 @@ body{
     padding: 0px;
     background-color:  rgba(82, 63, 2, 0.941);
     color: white;
+    overflow-x: hidden;
 }
 
 #head{
@@ -91,6 +92,9 @@ body{
         min-width: 300px;
         min-height: 300px;
     }
+    #masterpiece{
+    font-size: 100%;
+}
 }
 
 #audio-container {
